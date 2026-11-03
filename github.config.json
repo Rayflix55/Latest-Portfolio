@@ -1,11 +1,11 @@
 {
-  "username": "Rayflix55",
+  "username": "rayflixthetechbro",
 
   "_comment_include": "Public repos with a live site or README screenshot are synced automatically; private repo metadata is included when a token can access it.",
   "includeForks": false,
   "includeArchived": false,
   "includePrivate": true,
-  "exclude": ["Rayflix55", "rayflix-portfolio"],
+  "exclude": ["rayflixthetechbro", "rayflix-portfolio"],
   "maxProjects": 60,
 
   "_comment_images": "Order in which a preview image is looked for. readme = first screenshot in README.md, og = the live site's og:image, screenshot = a rendered screenshot of the live site, github = GitHub's auto-generated repo card.",

@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Portfolio of Akpe Samuel (Rayflix55), frontend developer",
+  "description": "Portfolio of Akpe Samuel (rayflixthetechbro), frontend developer",
   "scripts": {
     "dev": "vite",
     "sync": "node scripts/sync-github.mjs",

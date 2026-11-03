@@ -5,11 +5,11 @@ export const routeMeta = {
   '/': {
     title: 'Akpe Samuel (Rayflix) – Founding Frontend Engineer | React, Next.js, TypeScript',
     description:
-      'Portfolio of Akpe Samuel (Rayflix), Founding Frontend Engineer in Abuja, Nigeria. Building production-ready applications with React, Next.js, TypeScript, and Node.js.'
+      'Portfolio of Akpe Samuel (Rayflix), Founding Frontend Engineer with 3+ years of experience in Abuja, Nigeria. Building production-ready applications with React, Next.js, TypeScript, and Node.js.'
   },
   '/projects': {
     title: `All Projects – ${SITE_NAME} | React, Next.js & Tailwind Work`,
-    description: `Browse all ${projects.length} projects by Akpe Samuel (Rayflix55): dashboards, SaaS landing pages, storefronts, nonprofit sites and web apps built with React, TypeScript, Vue and Tailwind CSS.`
+    description: `Browse all ${projects.length} projects by Akpe Samuel (rayflixthetechbro): dashboards, SaaS landing pages, storefronts, nonprofit sites and web apps built with React, TypeScript, Vue and Tailwind CSS.`
   }
 };
 

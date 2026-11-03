@@ -1,7 +1,7 @@
-# Rayflix55 portfolio
+# rayflixthetechbro portfolio
 ![alt text](image.png)
 
-Portfolio of Akpe Samuel (Rayflix55), rebuilt from a single static HTML file into a React app.
+Portfolio of Akpe Samuel (rayflixthetechbro), rebuilt from a single static HTML file into a React app.
 
 **Stack:** React 19 · Vite · Tailwind CSS v4 · [PatternWaves](https://reactbits.dev) (ogl / WebGL2) · self-hosted variable fonts via Fontsource
 

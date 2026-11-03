@@ -51,8 +51,8 @@ export default function Hero() {
         </h1>
 
         <p className="mb-9 max-w-[560px] text-[clamp(16px,2vw,20px)] leading-relaxed text-body">
-          I&rsquo;m {profile.shortName}, also known as {profile.handle}, a Founding Frontend Engineer building
-          production-ready applications with React, Next.js, TypeScript, and Node.js.
+          I&rsquo;m {profile.shortName}, also known as {profile.handle}, a Founding Frontend Engineer with 3+ years of
+          experience building production-ready applications with React, Next.js, TypeScript, and Node.js.
         </p>
 
         <div className="flex flex-wrap gap-3">
