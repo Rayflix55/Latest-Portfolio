@@ -1,0 +1,26 @@
+{
+  "username": "Rayflix55",
+
+  "_comment_include": "Public repos with a live site or README screenshot are synced automatically; private repo metadata is included when a token can access it.",
+  "includeForks": false,
+  "includeArchived": false,
+  "includePrivate": true,
+  "exclude": ["Rayflix55", "rayflix-portfolio"],
+  "maxProjects": 60,
+
+  "_comment_images": "Order in which a preview image is looked for. readme = first screenshot in README.md, og = the live site's og:image, screenshot = a rendered screenshot of the live site, github = GitHub's auto-generated repo card.",
+  "imagePriority": ["readme", "og", "screenshot", "github"],
+  "screenshot": { "enabled": true },
+
+  "_comment_starred": "Repos you have starred on GitHub (other people's work), shown in their own section. A preview image is only used if the repo really has one, so the default order has no screenshot/github-card fallback. 'exclude' takes 'owner/name'.",
+  "starred": {
+    "enabled": true,
+    "maxProjects": 12,
+    "includeArchived": false,
+    "imagePriority": ["readme", "og"],
+    "exclude": []
+  },
+
+  "_comment_overrides": "Per-repo tweaks, keyed by repo name: title, category, liveLink, image (URL), tech (array), hidden (true to hide).",
+  "overrides": {}
+}
