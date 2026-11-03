@@ -2,6 +2,27 @@
   "username": "rayflixthetechbro",
   "projects": [
     {
+      "repo": "Latest-Portfolio",
+      "title": "Latest Portfolio",
+      "category": "Personal portfolio of Akpe Samuel (Rayflix55), featuring selected projects synced from GitHub, experience, and technical skills.",
+      "githubLink": "https://github.com/Rayflix55/Latest-Portfolio",
+      "liveLink": "",
+      "tech": [
+        "JavaScript"
+      ],
+      "year": "2026",
+      "createdAt": "2026-11-03T12:48:08Z",
+      "stars": 0,
+      "pushedAt": "2026-11-03T12:49:04Z",
+      "image": "/projects/auto/latest-portfolio",
+      "imageWidths": [
+        640,
+        1024,
+        1884
+      ],
+      "imageSource": "readme"
+    },
+    {
       "repo": "Sauti-Voice",
       "title": "Sauti Voice",
       "category": "Voice-first complaint intake for police stations and legal aid desks. Sauti uses Intron’s Sahara ASR to transcribe code-switched speech (Pidgin, Yoruba, Hausa, Swahili + English) and structures it into a reviewable legal statement. Includes a 3-model ASR benchmark.",
@@ -335,9 +356,10 @@
       "image": "/projects/auto/hng14-stage0-todo-card",
       "imageWidths": [
         640,
-        1024
+        1024,
+        1884
       ],
-      "imageSource": "github"
+      "imageSource": "screenshot"
     },
     {
       "repo": "TradeDev",
@@ -355,9 +377,10 @@
       "image": "/projects/auto/tradedev",
       "imageWidths": [
         640,
-        1024
+        1024,
+        1884
       ],
-      "imageSource": "github"
+      "imageSource": "screenshot"
     },
     {
       "repo": "My_Portfolio",
@@ -375,9 +398,10 @@
       "image": "/projects/auto/my-portfolio",
       "imageWidths": [
         640,
-        1024
+        1024,
+        1884
       ],
-      "imageSource": "github"
+      "imageSource": "screenshot"
     },
     {
       "repo": "-Frontend-Mentor---Weather-app",
@@ -395,9 +419,10 @@
       "image": "/projects/auto/frontend-mentor-weather-app",
       "imageWidths": [
         640,
-        1024
+        1024,
+        1884
       ],
-      "imageSource": "github"
+      "imageSource": "screenshot"
     },
     {
       "repo": "Client-Portfolio-Website",
@@ -415,9 +440,10 @@
       "image": "/projects/auto/client-portfolio-website",
       "imageWidths": [
         640,
-        1024
+        1024,
+        1884
       ],
-      "imageSource": "github"
+      "imageSource": "screenshot"
     },
     {
       "repo": "Ticket_Management_App",
@@ -659,7 +685,7 @@
         "Cpp",
         "Golang"
       ],
-      "stars": 288877,
+      "stars": 288882,
       "pushedAt": "2026-11-02T06:38:53Z",
       "image": null,
       "imageWidths": [],
