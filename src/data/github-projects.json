@@ -1,19 +1,19 @@
 {
-  "username": "rayflixthetechbro",
+  "username": "Rayflix55",
   "projects": [
     {
       "repo": "Latest-Portfolio",
       "title": "Latest Portfolio",
-      "category": "Personal portfolio of Akpe Samuel (Rayflix55), featuring selected projects synced from GitHub, experience, and technical skills.",
+      "category": "Personal portfolio of Akpe Samuel (RayflixTheTechBro), featuring selected projects synced from GitHub, experience, and technical skills.",
       "githubLink": "https://github.com/Rayflix55/Latest-Portfolio",
-      "liveLink": "",
+      "liveLink": "https://rayflixthetechbro.vercel.app/",
       "tech": [
         "JavaScript"
       ],
       "year": "2026",
       "createdAt": "2026-11-03T12:48:08Z",
       "stars": 0,
-      "pushedAt": "2026-11-03T12:49:04Z",
+      "pushedAt": "2026-11-05T09:12:30Z",
       "image": "/projects/auto/latest-portfolio",
       "imageWidths": [
         640,
@@ -26,7 +26,7 @@
       "repo": "Sauti-Voice",
       "title": "Sauti Voice",
       "category": "Voice-first complaint intake for police stations and legal aid desks. Sauti uses Intron’s Sahara ASR to transcribe code-switched speech (Pidgin, Yoruba, Hausa, Swahili + English) and structures it into a reviewable legal statement. Includes a 3-model ASR benchmark.",
-      "githubLink": "https://github.com/rayflixthetechbro/Sauti-Voice",
+      "githubLink": "https://github.com/Rayflix55/Sauti-Voice",
       "liveLink": "",
       "tech": [
         "Access To Justice",
@@ -51,7 +51,7 @@
       "repo": "obscura-landing",
       "title": "Obscura Landing",
       "category": "Editorial landing page for Obscura — a premium camera retailer. Next.js 15 (App Router), Tailwind CSS v4, TypeScript. Deployed on Vercel.",
-      "githubLink": "https://github.com/rayflixthetechbro/obscura-landing",
+      "githubLink": "https://github.com/Rayflix55/obscura-landing",
       "liveLink": "https://obscura-landing-seven.vercel.app/",
       "tech": [
         "TypeScript"
@@ -72,7 +72,7 @@
       "repo": "kokoodi-health",
       "title": "Kokoodi Health",
       "category": "Bilingual health-info app for a Nigerian charity — live Google Sheets CMS, AI Q&A grounded in published articles.",
-      "githubLink": "https://github.com/rayflixthetechbro/kokoodi-health",
+      "githubLink": "https://github.com/Rayflix55/kokoodi-health",
       "liveLink": "https://kokoodi-health.onrender.com/",
       "tech": [
         "TypeScript"
@@ -92,7 +92,7 @@
       "repo": "My-Animated-Portfolio",
       "title": "My Animated Portfolio",
       "category": "A polished, production-ready portfolio built with Svelte and Tailwind CSS. The site features smooth transitions, glassmorphic UI elements, and performance-optimized 3D backgrounds.",
-      "githubLink": "https://github.com/rayflixthetechbro/My-Animated-Portfolio",
+      "githubLink": "https://github.com/Rayflix55/My-Animated-Portfolio",
       "liveLink": "https://my-animated-portfolio-iota.vercel.app/",
       "tech": [
         "JavaScript"
@@ -113,7 +113,7 @@
       "repo": "Kismet",
       "title": "Kismet",
       "category": "Job Application App",
-      "githubLink": "https://github.com/rayflixthetechbro/Kismet",
+      "githubLink": "https://github.com/Rayflix55/Kismet",
       "liveLink": "https://kismet-nine.vercel.app/",
       "tech": [
         "TypeScript"
@@ -134,7 +134,7 @@
       "repo": "Verve",
       "title": "Verve",
       "category": "I built Verve—a modern SaaS landing page for an AI-powered productivity platform. It features a fully interactive hero section with mouse-tracking gradients, 13 different sections showcasing products and pricing, animated scroll effects, dark/light mode toggle, a working contact form, testimonial carousel, and responsive design for all devices.",
-      "githubLink": "https://github.com/rayflixthetechbro/Verve",
+      "githubLink": "https://github.com/Rayflix55/Verve",
       "liveLink": "https://verve-ai-dusky.vercel.app/",
       "tech": [
         "TypeScript"
@@ -155,7 +155,7 @@
       "repo": "cadence-demo",
       "title": "Cadence Demo",
       "category": "Demo SaaS: AI-driven sales email generator with local-first architecture. Sign up, personalize, generate → campaigns stored locally. Next.js + IndexedDB + argon2.",
-      "githubLink": "https://github.com/rayflixthetechbro/cadence-demo",
+      "githubLink": "https://github.com/Rayflix55/cadence-demo",
       "liveLink": "https://cadence-demo-kappa.vercel.app/",
       "tech": [
         "TypeScript"
@@ -176,7 +176,7 @@
       "repo": "Teyzix-Analytics-",
       "title": "Teyzix Analytics",
       "category": "Business Intelligence Analytics Dashboard (Task FEWD-1). Built with React, TypeScript, and Tailwind CSS for the Teyzix Core Internship Program.",
-      "githubLink": "https://github.com/rayflixthetechbro/Teyzix-Analytics-",
+      "githubLink": "https://github.com/Rayflix55/Teyzix-Analytics-",
       "liveLink": "https://teyzix-analytics.vercel.app/",
       "tech": [
         "TypeScript"
@@ -197,7 +197,7 @@
       "repo": "House-Of-Enna",
       "title": "House Of Enna",
       "category": "MODERN | Minimalist E-commerce Storefront A premium, high-performance fashion storefront built with React 19, Vite, and Tailwind CSS v4. Features a minimalist aesthetic, intelligent dark/light mode, dynamic product discovery, and a seamless checkout flow. Optimized for speed, accessibility, and modern aesthetics.",
-      "githubLink": "https://github.com/rayflixthetechbro/House-Of-Enna",
+      "githubLink": "https://github.com/Rayflix55/House-Of-Enna",
       "liveLink": "https://house-of-enna.vercel.app/",
       "tech": [
         "TypeScript"
@@ -218,7 +218,7 @@
       "repo": "Jupiter-Real-Time-Analytics-Dashboard",
       "title": "Jupiter Real Time Analytics Dashboard",
       "category": "A high-performance real-time data visualization platform built with Vue 3, TypeScript, and ECharts. This application simulates a modern trading terminal with live-streaming OHLC data, transactions, and interactive charting.",
-      "githubLink": "https://github.com/rayflixthetechbro/Jupiter-Real-Time-Analytics-Dashboard",
+      "githubLink": "https://github.com/Rayflix55/Jupiter-Real-Time-Analytics-Dashboard",
       "liveLink": "https://jupiter-real-time-analytics-dashboa.vercel.app/",
       "tech": [
         "Vue"
@@ -239,7 +239,7 @@
       "repo": "hng-14-stage-4a-AI-page-summarizer",
       "title": "hng 14 stage 4a AI page summarizer",
       "category": "A skeuomorphic Chrome Extension (MV3) for AI-powered page summarization using Gemini 1.5 Flash.",
-      "githubLink": "https://github.com/rayflixthetechbro/hng-14-stage-4a-AI-page-summarizer",
+      "githubLink": "https://github.com/Rayflix55/hng-14-stage-4a-AI-page-summarizer",
       "liveLink": "https://hng-14-stage-4a-ai-page-summarizer.vercel.app/",
       "tech": [
         "JavaScript"
@@ -260,7 +260,7 @@
       "repo": "hng-14-stage-4b-secure-message-app-correction",
       "title": "Hng 14 Stage 4b Secure Message App Correction",
       "category": "🔐 WhisperBox: A production-grade End-to-End Encrypted (E2EE) messaging application. Built with React and the Web Crypto API, ensuring plaintext never leaves the browser. Features hybrid RSA/AES encryption, PBKDF2 key protection, and a polished, minimalist Zinc UI.",
-      "githubLink": "https://github.com/rayflixthetechbro/hng-14-stage-4b-secure-message-app-correction",
+      "githubLink": "https://github.com/Rayflix55/hng-14-stage-4b-secure-message-app-correction",
       "liveLink": "https://hng-14-stage-4b-secure-message-app.vercel.app/",
       "tech": [
         "TypeScript"
@@ -281,7 +281,7 @@
       "repo": "hng14-stage3-trackit-habit-tracker",
       "title": "Hng14 Stage3 Trackit Habit Tracker",
       "category": "A minimalist, glassmorphic habit tracker built with Next.js, focused on persistence, logic-heavy streak tracking, and 100% unit test coverage.",
-      "githubLink": "https://github.com/rayflixthetechbro/hng14-stage3-trackit-habit-tracker",
+      "githubLink": "https://github.com/Rayflix55/hng14-stage3-trackit-habit-tracker",
       "liveLink": "https://hng14-stage3-trackit-habit-tracker.vercel.app/",
       "tech": [
         "TypeScript"
@@ -302,7 +302,7 @@
       "repo": "hng14-stage2-invoice-app",
       "title": "Hng14 Stage2 Invoice App",
       "category": "A high-fidelity, full-stack Invoice Management Dashboard built with React 19, TypeScript, and Express. Includes a persistent dark mode, full CRUD functionality, and a responsive design system using Tailwind CSS 4.",
-      "githubLink": "https://github.com/rayflixthetechbro/hng14-stage2-invoice-app",
+      "githubLink": "https://github.com/Rayflix55/hng14-stage2-invoice-app",
       "liveLink": "https://hng14-stage2-invoice-app.vercel.app/",
       "tech": [
         "TypeScript"
@@ -323,7 +323,7 @@
       "repo": "hng14-stage1b-profile-card",
       "title": "Hng14 Stage1b Profile Card",
       "category": "High-fidelity \"Cyber-Street\" Profile Card for Akpe Raymond Samuel (Rayflix). Features a 10ms real-time epoch ticker, official brand icons, and a custom UI built with Vanilla HTML/CSS/JS.",
-      "githubLink": "https://github.com/rayflixthetechbro/hng14-stage1b-profile-card",
+      "githubLink": "https://github.com/Rayflix55/hng14-stage1b-profile-card",
       "liveLink": "https://hng14-stage1b-profile-card.vercel.app/",
       "tech": [
         "HTML"
@@ -344,7 +344,7 @@
       "repo": "hng14-stage0-todo-card",
       "title": "Hng14 Stage0 Todo Card",
       "category": "HNG 14 Internship: Stage 0 Frontend Task. A high-fidelity, accessible Todo Item Card built with pure Vanilla HTML, CSS, and JS.",
-      "githubLink": "https://github.com/rayflixthetechbro/hng14-stage0-todo-card",
+      "githubLink": "https://github.com/Rayflix55/hng14-stage0-todo-card",
       "liveLink": "https://hng14-stage0-todo-card.vercel.app/",
       "tech": [
         "CSS"
@@ -365,7 +365,7 @@
       "repo": "TradeDev",
       "title": "TradeDev",
       "category": "A trading developer jobs search platform",
-      "githubLink": "https://github.com/rayflixthetechbro/TradeDev",
+      "githubLink": "https://github.com/Rayflix55/TradeDev",
       "liveLink": "https://tradedevpro.vercel.app/",
       "tech": [
         "TypeScript"
@@ -386,7 +386,7 @@
       "repo": "My_Portfolio",
       "title": "My Portfolio",
       "category": "My Portfolio Website",
-      "githubLink": "https://github.com/rayflixthetechbro/My_Portfolio",
+      "githubLink": "https://github.com/Rayflix55/My_Portfolio",
       "liveLink": "https://rayflixthetechbro.vercel.app/",
       "tech": [
         "HTML"
@@ -407,7 +407,7 @@
       "repo": "-Frontend-Mentor---Weather-app",
       "title": "Frontend Mentor Weather app",
       "category": "This is a solution to the [Weather app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/weather-app-K1FhddVm49).",
-      "githubLink": "https://github.com/rayflixthetechbro/-Frontend-Mentor---Weather-app",
+      "githubLink": "https://github.com/Rayflix55/-Frontend-Mentor---Weather-app",
       "liveLink": "https://frontend-mentor-weather-app.vercel.app/",
       "tech": [
         "JavaScript"
@@ -428,7 +428,7 @@
       "repo": "Client-Portfolio-Website",
       "title": "Client Portfolio Website",
       "category": "Personal portfolio website with glassmorphism UI, backdrop blur effects, smooth scroll navigation, responsive design, and interactive mobile menu animations",
-      "githubLink": "https://github.com/rayflixthetechbro/Client-Portfolio-Website",
+      "githubLink": "https://github.com/Rayflix55/Client-Portfolio-Website",
       "liveLink": "https://supremepraiz.vercel.app/",
       "tech": [
         "HTML"
@@ -449,7 +449,7 @@
       "repo": "Ticket_Management_App",
       "title": "Ticket Management App",
       "category": "a fully functional ticket management app",
-      "githubLink": "https://github.com/rayflixthetechbro/Ticket_Management_App",
+      "githubLink": "https://github.com/Rayflix55/Ticket_Management_App",
       "liveLink": "https://ticket-management-app-omega.vercel.app/",
       "tech": [
         "JavaScript"
@@ -461,15 +461,16 @@
       "image": "/projects/auto/ticket-management-app",
       "imageWidths": [
         640,
-        1024
+        1024,
+        1884
       ],
-      "imageSource": "github"
+      "imageSource": "screenshot"
     },
     {
       "repo": "My-Profile-Card",
       "title": "My Profile Card",
       "category": "A responsive, semantic HTML profile card component that displays user information including bio, social links, hobbies, and dislikes.",
-      "githubLink": "https://github.com/rayflixthetechbro/My-Profile-Card",
+      "githubLink": "https://github.com/Rayflix55/My-Profile-Card",
       "liveLink": "https://rayflix-profile-card.vercel.app/",
       "tech": [
         "CSS"
@@ -481,15 +482,16 @@
       "image": "/projects/auto/my-profile-card",
       "imageWidths": [
         640,
-        1024
+        1024,
+        1884
       ],
-      "imageSource": "github"
+      "imageSource": "screenshot"
     },
     {
       "repo": "-Frontend-Mentor---Testimonials-grid-section-solution",
       "title": "Frontend Mentor Testimonials grid section solution",
       "category": "This is a solution to the [Testimonials grid section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
-      "githubLink": "https://github.com/rayflixthetechbro/-Frontend-Mentor---Testimonials-grid-section-solution",
+      "githubLink": "https://github.com/Rayflix55/-Frontend-Mentor---Testimonials-grid-section-solution",
       "liveLink": "https://frontend-mentor-testimonials-grid-s.vercel.app/",
       "tech": [
         "CSS"
@@ -509,7 +511,7 @@
       "repo": "-Frontend-Mentor---Four-card-feature-section",
       "title": "Frontend Mentor Four card feature section",
       "category": "This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
-      "githubLink": "https://github.com/rayflixthetechbro/-Frontend-Mentor---Four-card-feature-section",
+      "githubLink": "https://github.com/Rayflix55/-Frontend-Mentor---Four-card-feature-section",
       "liveLink": "https://frontend-mentor-four-card-feature-s-henna.vercel.app/",
       "tech": [
         "CSS"
@@ -529,7 +531,7 @@
       "repo": "Product-preview-card-component",
       "title": "Product preview card component",
       "category": "This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
-      "githubLink": "https://github.com/rayflixthetechbro/Product-preview-card-component",
+      "githubLink": "https://github.com/Rayflix55/Product-preview-card-component",
       "liveLink": "https://product-preview-card-component-olive-three.vercel.app/",
       "tech": [
         "CSS"
@@ -541,15 +543,16 @@
       "image": "/projects/auto/product-preview-card-component",
       "imageWidths": [
         640,
-        1024
+        1024,
+        1884
       ],
-      "imageSource": "github"
+      "imageSource": "screenshot"
     },
     {
       "repo": "-Frontend-Mentor---Recipe-page-solution",
       "title": "Frontend Mentor Recipe page solution",
       "category": "This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm).  Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
-      "githubLink": "https://github.com/rayflixthetechbro/-Frontend-Mentor---Recipe-page-solution",
+      "githubLink": "https://github.com/Rayflix55/-Frontend-Mentor---Recipe-page-solution",
       "liveLink": "https://frontend-mentor-recipe-page-solutio-liard.vercel.app/",
       "tech": [
         "HTML"
@@ -569,7 +572,7 @@
       "repo": "-Frontend-Mentor---Social-links-profile-solution",
       "title": "Frontend Mentor Social links profile solution",
       "category": "This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ).  Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
-      "githubLink": "https://github.com/rayflixthetechbro/-Frontend-Mentor---Social-links-profile-solution",
+      "githubLink": "https://github.com/Rayflix55/-Frontend-Mentor---Social-links-profile-solution",
       "liveLink": "https://frontend-mentor-social-links-profil-rho.vercel.app/",
       "tech": [
         "HTML"
@@ -589,7 +592,7 @@
       "repo": "-Frontend-Mentor---Blog-preview-card",
       "title": "Frontend Mentor Blog preview card",
       "category": "This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
-      "githubLink": "https://github.com/rayflixthetechbro/-Frontend-Mentor---Blog-preview-card",
+      "githubLink": "https://github.com/Rayflix55/-Frontend-Mentor---Blog-preview-card",
       "liveLink": "https://frontend-mentor-blog-preview-card-bice.vercel.app/",
       "tech": [
         "HTML"
@@ -609,7 +612,7 @@
       "repo": "-Frontend-Mentor---QR-code-component",
       "title": "Frontend Mentor QR code component",
       "category": "This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
-      "githubLink": "https://github.com/rayflixthetechbro/-Frontend-Mentor---QR-code-component",
+      "githubLink": "https://github.com/Rayflix55/-Frontend-Mentor---QR-code-component",
       "liveLink": "https://frontend-mentor-qr-code-component-virid-eight.vercel.app/",
       "tech": [
         "HTML"
@@ -685,7 +688,7 @@
         "Cpp",
         "Golang"
       ],
-      "stars": 288882,
+      "stars": 289082,
       "pushedAt": "2026-11-02T06:38:53Z",
       "image": null,
       "imageWidths": [],
