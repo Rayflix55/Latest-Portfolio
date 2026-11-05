@@ -19,8 +19,8 @@ export const profile = {
   website: { label: 'rayflixthetechbro.vercel.app', href: 'https://rayflixthetechbro.vercel.app/' },
   x: { label: '@web3rayflix', href: 'https://x.com/web3rayflix' },
   linkedin: { label: 'in/akpe-samuel-993971329', href: 'https://www.linkedin.com/in/akpe-samuel-993971329' },
-  github: 'https://github.com/rayflixthetechbro',
-  githubRepos: 'https://github.com/rayflixthetechbro?tab=repositories'
+  github: 'https://github.com/Rayflix55',
+  githubRepos: 'https://github.com/Rayflix55?tab=repositories'
 };
 
 export const nav = [
@@ -68,7 +68,7 @@ export const engineeringStrengths = [
 ];
 
 const manualProjects = [
-  { title: 'Yagazie Weng Foundation', category: 'Disability Support Platform', image: '/projects/1', liveLink: 'https://yagaziewengfoundationforthedeaf.org/', githubLink: 'https://github.com/rayflixthetechbro/Yagazie-Weng-Umezurike-Foundation-', tech: ['Vanilla JS', 'TailwindCSS', 'HTML5'], year: '2026' },
+  { title: 'Yagazie Weng Foundation', category: 'Disability Support Platform', image: '/projects/1', liveLink: 'https://yagaziewengfoundationforthedeaf.org/', githubLink: 'https://github.com/Rayflix55/Yagazie-Weng-Umezurike-Foundation-', tech: ['Vanilla JS', 'TailwindCSS', 'HTML5'], year: '2026' },
   { title: 'BDI Foundation', category: 'Nonprofit Website', image: '/projects/2', liveLink: 'https://techbdi.com.ng/', githubLink: 'https://github.com/Chamberezigbo/Abaglobal', tech: ['HTML', 'CSS', 'SCSS', 'JavaScript', 'PHP'], year: '2025' }
 ];
 
