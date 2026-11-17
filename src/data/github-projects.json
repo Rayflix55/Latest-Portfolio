@@ -2,6 +2,26 @@
   "username": "Rayflix55",
   "projects": [
     {
+      "repo": "yagazie-weng-foundation-website",
+      "title": "Yagazie Weng Foundation Website",
+      "category": "Official website for the Yagazie Weng Umezurike Foundation for the Deaf, promoting deaf education, accessibility, advocacy, and inclusion in Nigeria.",
+      "githubLink": "https://github.com/Rayflix55/yagazie-weng-foundation-website",
+      "liveLink": "https://yagazie-weng-foundation-website.vercel.app/",
+      "tech": [
+        "TypeScript"
+      ],
+      "year": "2026",
+      "createdAt": "2026-11-17T11:52:17Z",
+      "stars": 0,
+      "pushedAt": "2026-11-17T12:32:13Z",
+      "image": "/projects/auto/yagazie-weng-foundation-website",
+      "imageWidths": [
+        640,
+        1024
+      ],
+      "imageSource": "readme"
+    },
+    {
       "repo": "Latest-Portfolio",
       "title": "Latest Portfolio",
       "category": "Personal portfolio of Akpe Samuel (RayflixTheTechBro), featuring selected projects synced from GitHub, experience, and technical skills.",
@@ -13,7 +33,7 @@
       "year": "2026",
       "createdAt": "2026-11-03T12:48:08Z",
       "stars": 0,
-      "pushedAt": "2026-11-16T14:08:54Z",
+      "pushedAt": "2026-11-17T01:13:55Z",
       "image": "/projects/auto/latest-portfolio",
       "imageWidths": [
         640,
@@ -669,7 +689,7 @@
       "liveLink": "",
       "language": "JavaScript",
       "tech": [],
-      "stars": 28056,
+      "stars": 28057,
       "pushedAt": "2024-03-26T15:58:43Z",
       "image": null,
       "imageWidths": [],
@@ -688,7 +708,7 @@
         "Cpp",
         "Golang"
       ],
-      "stars": 289861,
+      "stars": 289909,
       "pushedAt": "2026-11-16T06:44:31Z",
       "image": null,
       "imageWidths": [],
