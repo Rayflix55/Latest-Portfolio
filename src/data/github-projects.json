@@ -2,6 +2,27 @@
   "username": "Rayflix55",
   "projects": [
     {
+      "repo": "Latest-Portfolio",
+      "title": "Latest Portfolio",
+      "category": "Personal portfolio of Akpe Samuel (RayflixTheTechBro), featuring selected projects synced from GitHub, experience, and technical skills.",
+      "githubLink": "https://github.com/Rayflix55/Latest-Portfolio",
+      "liveLink": "https://rayflixthetechbro.vercel.app/",
+      "tech": [
+        "JavaScript"
+      ],
+      "year": "2026",
+      "createdAt": "2026-11-03T12:48:08Z",
+      "stars": 0,
+      "pushedAt": "2026-11-21T13:49:21Z",
+      "image": "/projects/auto/latest-portfolio",
+      "imageWidths": [
+        640,
+        1024,
+        1884
+      ],
+      "imageSource": "readme"
+    },
+    {
       "repo": "schmtj-logistics-web",
       "title": "Schmtj Logistics Web",
       "category": "A premium, single-page marketing and enquiry website for SCHMTJ Logistics. Featuring live animal export information, an interactive freight quote calculator, and seamless WhatsApp integration. Built for Nnamdi Azikiwe International Airport operations.",
@@ -15,27 +36,6 @@
       "stars": 0,
       "pushedAt": "2026-11-21T12:15:08Z",
       "image": "/projects/auto/schmtj-logistics-web",
-      "imageWidths": [
-        640,
-        1024,
-        1884
-      ],
-      "imageSource": "readme"
-    },
-    {
-      "repo": "Latest-Portfolio",
-      "title": "Latest Portfolio",
-      "category": "Personal portfolio of Akpe Samuel (RayflixTheTechBro), featuring selected projects synced from GitHub, experience, and technical skills.",
-      "githubLink": "https://github.com/Rayflix55/Latest-Portfolio",
-      "liveLink": "https://rayflixthetechbro.vercel.app/",
-      "tech": [
-        "JavaScript"
-      ],
-      "year": "2026",
-      "createdAt": "2026-11-03T12:48:08Z",
-      "stars": 0,
-      "pushedAt": "2026-11-21T04:33:51Z",
-      "image": "/projects/auto/latest-portfolio",
       "imageWidths": [
         640,
         1024,
@@ -729,7 +729,7 @@
         "Cpp",
         "Golang"
       ],
-      "stars": 290161,
+      "stars": 290207,
       "pushedAt": "2026-11-16T06:44:31Z",
       "image": null,
       "imageWidths": [],
