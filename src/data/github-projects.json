@@ -2,6 +2,27 @@
   "username": "Rayflix55",
   "projects": [
     {
+      "repo": "schmtj-logistics-web",
+      "title": "Schmtj Logistics Web",
+      "category": "A premium, single-page marketing and enquiry website for SCHMTJ Logistics. Featuring live animal export information, an interactive freight quote calculator, and seamless WhatsApp integration. Built for Nnamdi Azikiwe International Airport operations.",
+      "githubLink": "https://github.com/Rayflix55/schmtj-logistics-web",
+      "liveLink": "https://schmtj-logistics-web.vercel.app/",
+      "tech": [
+        "TypeScript"
+      ],
+      "year": "2026",
+      "createdAt": "2026-11-21T11:58:38Z",
+      "stars": 0,
+      "pushedAt": "2026-11-21T12:15:08Z",
+      "image": "/projects/auto/schmtj-logistics-web",
+      "imageWidths": [
+        640,
+        1024,
+        1884
+      ],
+      "imageSource": "readme"
+    },
+    {
       "repo": "Latest-Portfolio",
       "title": "Latest Portfolio",
       "category": "Personal portfolio of Akpe Samuel (RayflixTheTechBro), featuring selected projects synced from GitHub, experience, and technical skills.",
@@ -13,7 +34,7 @@
       "year": "2026",
       "createdAt": "2026-11-03T12:48:08Z",
       "stars": 0,
-      "pushedAt": "2026-11-20T23:27:26Z",
+      "pushedAt": "2026-11-21T04:33:51Z",
       "image": "/projects/auto/latest-portfolio",
       "imageWidths": [
         640,
@@ -689,7 +710,7 @@
       "liveLink": "",
       "language": "JavaScript",
       "tech": [],
-      "stars": 28056,
+      "stars": 28055,
       "pushedAt": "2024-03-26T15:58:43Z",
       "image": null,
       "imageWidths": [],
@@ -708,7 +729,7 @@
         "Cpp",
         "Golang"
       ],
-      "stars": 290118,
+      "stars": 290161,
       "pushedAt": "2026-11-16T06:44:31Z",
       "image": null,
       "imageWidths": [],
