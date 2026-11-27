@@ -13,7 +13,7 @@
       "year": "2026",
       "createdAt": "2026-11-03T12:48:08Z",
       "stars": 0,
-      "pushedAt": "2026-11-26T15:55:57Z",
+      "pushedAt": "2026-11-27T01:14:02Z",
       "image": "/projects/auto/latest-portfolio",
       "imageWidths": [
         640,
@@ -710,7 +710,7 @@
       "liveLink": "",
       "language": "JavaScript",
       "tech": [],
-      "stars": 28052,
+      "stars": 28051,
       "pushedAt": "2024-03-26T15:58:43Z",
       "image": null,
       "imageWidths": [],
@@ -729,7 +729,7 @@
         "Cpp",
         "Golang"
       ],
-      "stars": 290551,
+      "stars": 290592,
       "pushedAt": "2026-11-23T06:41:02Z",
       "image": null,
       "imageWidths": [],
